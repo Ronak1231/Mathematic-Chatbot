@@ -90,6 +90,7 @@ Welcome to **Math Chatbot**, your go-to tool for performing mathematical calcula
 - `app.py`: Main application script.
 - `README.md`: Documentation for the project.
 - `requirements.txt`: List of dependencies.
+- `LICENSE`: License file defining the terms under which the project can be used, modified, and distributed.
 
 ---
 
