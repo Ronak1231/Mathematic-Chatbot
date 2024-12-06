@@ -108,4 +108,4 @@ Special thanks to the developers of Streamlit, SymPy, NumPy, and Matplotlib for 
 
 ## 🙋‍♂️ Contact
 
-For queries or suggestions, feel free to reach out at [your-email@example.com].
+For queries or suggestions, feel free to reach out at [ronakbansal12345@gmail.com].
